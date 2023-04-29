@@ -20,4 +20,4 @@ python3 main.py
 ![image](https://github.com/Personman20/Word-of-the-Day/blob/main/sample-out.png)
 
 ---
-*I did not make this code
+*I did not make this code*
