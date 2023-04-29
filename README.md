@@ -15,6 +15,9 @@ python3 main.py
 ```
 
 ---
-Sample Output
+# Sample Output
 
 ![image](https://github.com/Personman20/Word-of-the-Day/blob/main/sample-out.png)
+
+---
+*I did not make this code
