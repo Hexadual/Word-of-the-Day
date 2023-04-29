@@ -16,4 +16,5 @@ python3 main.py
 
 ---
 Sample Output
+
 ![image](https://github.com/Personman20/Word-of-the-Day/blob/main/sample-out.png)
