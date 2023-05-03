@@ -35,10 +35,6 @@ def generate_image(): # Optimize this
 	image.save("sample-out.png")
 	return randomword
 
-
-
-
-
 async def send_message():
 	word = generate_image()
 	channel = BOT.get_channel(CHANNEL_ID)
@@ -62,10 +58,6 @@ async def on_ready():
     print(f"Logged in as {BOT.user.name}")
     print(f"Outputting to #{BOT.get_channel(CHANNEL_ID)}")
     await BOT.change_presence(activity=discord.Activity(name=f"word of the day: NONE", type=discord.ActivityType.watching))
-
-
-
-
 
 if __name__ == "__main__":
 	check_time.start()
